@@ -1,5 +1,5 @@
 _repo: To-Be-Read-at-Dusk_924
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: archival
   image_path: 924-h/images/coverb.jpg
@@ -29,5 +29,6 @@ subjects:
 - !lcsh 'Ghost stories'
 - !lcsh 'Short stories'
 - !lcsh 'Fiction'
+- GITenberg
 title: To Be Read at Dusk
 url: http://www.gutenberg.org/ebooks/924
